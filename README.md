@@ -5,7 +5,7 @@ Two formats of a single document are provided: .odt and .pdf
 This document contains three lists of links.
 
 	- A list of links to official documents and guides concerning Epics
-	version 3 and version 3.
+	version 3 and version 4.
 
 	- A list of links to official documents and guides concerning Qt. 
 	Specifically Qt 4.8.
